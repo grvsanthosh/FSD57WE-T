@@ -1,0 +1,36 @@
+{
+    "name" : "Santhoshkumar Elumalai",
+    "Date_of_birth" : "22-09-1994",
+    "Age" : 29,
+    "_10th_graduation_year" : 2010,
+    "_10th_graduation_grade_percentage" : "89%",
+    "_12th_graduation_year" : 2012,
+    "_12th_graduation_grade_percentage" : "91.5%",
+    "Degree" : "B.Tech",
+    "Degree_course" : "Mechatronics",
+    "Type_of_degree" : "Under graduate",
+    "Degree_completion_year" : 2017,
+    "_Degree_graduation_grade_percentage" : "89.5%",
+    "Type_of_job_roles" : [["Software Engineer", "EmbeddedUR"],["Qualitiy tester", "NFK automobiles"],["PLC automation","Equara systems"],["Automation specialist","Amazon Development Centre"]],
+    "Current_job_role" : ["Automation specialist","Amazon Development Centre"],
+    "years_of_experience" : {
+        "EmbeddedUR" : 1,
+        "NFK_automobiles" : 0.6,
+        "Equara" : 0.6,
+        "Amazon_Development_Center" : 4.6
+    },
+    "Programming_knowledges" : ["Python","Javascript"],
+    "Other_skills" : ["Macro scripts","PLC logics"],
+    "Projects" : {
+        "google_shopping_website" : "To scrape competitive prices by comparing amazon products using XML",
+        "Resolving_Cookie_popups" :  "To reduce cookie popup blockages in competitive sites"
+    },
+    "Current_activity" : {
+        "course" : "Learning full stack course",
+        "course_provider" : "GUVI",
+        "course_batch" : "FSD57WE-T",
+        "Stundent_coordinator" : "Sona",
+        "Mentor" : "Vishnu"
+
+    }
+}
